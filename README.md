@@ -1,1 +1,1 @@
-# sitemap.html (version-1.0)
+# sitemap.html (version-1)
